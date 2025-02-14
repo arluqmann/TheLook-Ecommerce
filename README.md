@@ -3,9 +3,10 @@
 > [!NOTE]
 > <b>The Look E commerce - Public Dataset Big Query</b>
 
-<h1 align="center">
+<h1 align="left">
   <span style="color: #627254; font-size: 44px; font-weight: bold;">
-    Laporan Penjualan Produk dengan Pendapatan Tertinggi Setiap Bulannya
+    Laporan Penjualan Produk pada Salah Satu E-commerce dengan <br> 
+    Pendapatan Tertinggi Setiap Bulannya
   </span>
 </h1>
 
